@@ -1,4 +1,5 @@
-# 정수 리스트 num_list와 찾으려는 정수 n이 주어질 때, num_list안에 n이 있으면 1을 없으면 0을 return하도록 solution 함수를 완성해주세요.
+문자열 my_string과 정수 n이 매개변수로 주어질 때, 
+my_string의 앞의 n글자로 이루어진 문자열을 return 하는 solution 함수를 작성해 주세요.
 
 
 class Solution {
